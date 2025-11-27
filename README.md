@@ -36,7 +36,7 @@ Northeastern University, Seattle | *Sep 2025 - May 2027* | **GPA: 4.0/4.0**
 **Relevant Coursework:** Object-Oriented Design, Data Structures & Algorithms, Web Design & UX Engineering
 
 **Bachelor of Engineering (Honors) - Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya, India | *Aug 2011 - June 2015*
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, India 
 
 ---
 
