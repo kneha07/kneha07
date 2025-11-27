@@ -16,7 +16,7 @@
 
 🎓 **MS in Computer Software Engineering** @ Northeastern University (GPA: 4.0/4.0)
 
-I'm a Software Engineer with **9+ years of experience** building and testing enterprise applications across **finance, insurance, and healthcare sectors**. My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code.
+I'm a Software Engineer with **7+ years of experience** building and testing enterprise applications across **finance, insurance, and healthcare sectors**. My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code.
 
 > 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives—**building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **maintainable, testable, and production-ready**.
 
