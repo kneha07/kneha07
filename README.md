@@ -93,7 +93,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ### 📄 Smart Document Management with AI Search
 **Tech Stack:** Java Spring Boot | MongoDB | NLP | AWS S3 | React.js | AES-256 | JWT
 
-🔗 [GitHub Repo](https://github.com/kneha07/your-repo-name)
+https://github.com/kneha07/Smart-Document-Management-System-with-AI-Search.git
 
 An intelligent cloud document management platform that doesn't just store files—it **understands** them. Built for corporate, education, and healthcare sectors.
 
