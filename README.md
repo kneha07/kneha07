@@ -106,6 +106,23 @@ An intelligent cloud document management platform that doesn't just store files�
 
 ---
 
+### 🌿 Plantopia - Plant Care Guide
+**Tech Stack:** React.js | Vite | JavaScript (ES6+) | CSS3 | Responsive Design
+
+https://github.com/kneha07/Plantopia_Plant-Care-Guide
+
+A modern, interactive web application helping users discover and care for 12+ houseplants with personalized recommendations and comprehensive care guides.
+
+**Key Features:**
+- 🎨 **Theme Switching:** Dark/light mode with persistent user preferences
+- 🔍 **Advanced Filtering:** Filter plants by light, water, difficulty, and pet safety
+- 🎯 **Plant Finder:** Personalized recommendations based on experience and environment
+- ♿ **WCAG AA Compliant:** Full keyboard navigation and screen reader support
+- 📱 **Fully Responsive:** Optimized mobile-first design for all devices
+- 🎠 **Interactive UI:** Carousel, accordion, tabs, and modal components
+
+---
+
 ### 🐦 Real-Time Social Media Platform
 **Tech Stack:** Java Spring Boot | React.js | PostgreSQL | WebSocket | JWT | AWS S3
 
