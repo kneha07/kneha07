@@ -93,7 +93,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ### 📄 Smart Document Management with AI Search
 **Tech Stack:** Java Spring Boot | MongoDB | NLP | AWS S3 | React.js | AES-256 | JWT
 
-https://github.com/kneha07/Smart-Document-Management-System-with-AI-Search-.git
+🔗 [GitHub Repo](https://github.com/kneha07/Smart-Document-Management-System-with-AI-Search-.git)
 
 An intelligent cloud document management platform that doesn't just store files—it **understands** them. Built for corporate, education, and healthcare sectors.
 
@@ -109,7 +109,7 @@ An intelligent cloud document management platform that doesn't just store files�
 ### 🌿 Plantopia - Plant Care Guide
 **Tech Stack:** React.js | Vite | JavaScript (ES6+) | CSS3 | Responsive Design
 
-https://github.com/kneha07/Plantopia_Plant-Care-Guide
+🔗 [GitHub Repo](https://github.com/kneha07/Plantopia_Plant-Care-Guide)
 
 A modern, interactive web application helping users discover and care for 12+ houseplants with personalized recommendations and comprehensive care guides.
 
