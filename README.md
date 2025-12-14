@@ -126,7 +126,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ### 🐦 Real-Time Social Media Platform
 **Tech Stack:** Java Spring Boot | React.js | PostgreSQL | WebSocket | JWT | AWS S3
 
-🔗 [GitHub Repo](https://github.com/kneha07/your-repo-name)
+
 
 A full-stack social media platform inspired by Twitter, built for **1,000+ concurrent users** with sub-second latency.
 
