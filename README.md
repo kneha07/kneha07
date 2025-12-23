@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Kumari! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;9%2B+Years+Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;9%2B+Years+Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
