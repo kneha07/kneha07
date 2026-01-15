@@ -106,7 +106,7 @@ An intelligent cloud document management platform that doesn't just store files�
 
 ---
 
-### 🌿 Plantopia - Plant Care Guide
+### 🌿 Plantopia - Plant Care Guide | React SPA
 **Tech Stack:** React.js | Vite | JavaScript (ES6+) | CSS3 | Responsive Design
 
 🔗 [GitHub Repo](https://github.com/kneha07/Plantopia_Plant-Care-Guide)
