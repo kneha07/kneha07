@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Kumari! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;7%2B+Years+Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;6%2B+Years+Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 🎓 **MS in Computer Software Engineering** @ Northeastern University (GPA: 4.0/4.0)
 
-I'm a Software Engineer with **7+ years of experience** building and testing enterprise applications across **finance, insurance, and healthcare sectors**. My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code.
+I'm a Software Engineer with **6+ years of experience** building and testing enterprise applications across **finance, insurance, and healthcare sectors**. My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code.
 
 > 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives—**building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **maintainable, testable, and production-ready**.
 
@@ -124,19 +124,19 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ---
 
 ### 🐦 Real-Time Social Media Platform
-**Tech Stack:** Java Spring Boot | React.js | PostgreSQL | WebSocket | JWT | AWS S3
+**Tech Stack:** Go | Next.js | TypeScript | PostgreSQL | Redis | AWS EKS | Kubernetes | Docker | AWS S3 | CloudFront
 
-
-
-A full-stack social media platform inspired by Twitter, built for **1,000+ concurrent users** with sub-second latency.
+A scalable real-time social media platform supporting **1,000+ concurrent users** with instant WebSocket-based notifications. Built with cloud-native microservices architecture deployed on AWS EKS.
 
 **Key Features:**
-- 🔔 **Real-Time:** WebSocket notifications for likes, follows, replies, and mentions
-- 📸 **Media:** Tweet posting with AWS S3 image uploads (10,000+ supported)
-- 🔄 **Social:** Like, retweet, reply, follow/unfollow with dynamic feed
+- 🔐 **Authentication:** JWT-based authentication and authorization
+- 📸 **Media Uploads:** Image/video uploads with AWS S3 and CloudFront CDN
+- 🔔 **Real-Time Notifications:** WebSocket notifications for likes, follows, replies, and mentions
+- 🐦 **Social Features:** Tweet, like, retweet, and reply functionality
+- 🤝 **Follow System:** Follow/unfollow with personalized feed
 - 🔍 **Search:** User and tweet search with infinite scroll
-- ⚡ **Optimized:** PostgreSQL schema with 7+ tables, queries optimized by **40%**
-- 📱 **Responsive:** Mobile and desktop friendly UI
+- ⚡ **Optimized:** RDS PostgreSQL with indexing and ElastiCache Redis, reducing query time by **40%**
+- 📱 **Responsive:** Mobile-friendly UI with server-side rendering
 
 ---
 
