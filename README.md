@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Kumari! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;6%2B+Years+Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,13 +16,16 @@
 
 🎓 **MS in Computer Software Engineering** @ Northeastern University (GPA: 4.0/4.0)
 
-I'm a Software Engineer with **6+ years of experience** building and testing enterprise applications across **finance, insurance, and healthcare sectors**. My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code.
+I'm a software engineer pursuing my Master's in Information Systems at Northeastern University, where I'm deepening my expertise in software development, cloud computing, and full-stack application building.
 
-> 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives—**building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **maintainable, testable, and production-ready**.
+My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code. I've built and tested enterprise applications across **finance, insurance, and healthcare sectors**—giving me a unique perspective on building robust, scalable software from the ground up.
 
-At Northeastern, I'm expanding my technical foundation through advanced coursework in algorithms, cloud architecture, and modern development practices. I'm passionate about building robust, scalable software from the ground up.
+At Northeastern, I'm expanding my technical foundation through advanced coursework in algorithms, cloud architecture, and modern development practices. I have strong proficiency in Java, Python, JavaScript, and modern frameworks like React.js, Node.js, and Spring Boot.
 
-🌱 **Currently:** Deepening expertise in full-stack development, cloud computing, and modern frameworks  
+> 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives—**building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **maintainable, testable, and production-ready**. I understand the importance of clean code, proper documentation, and building systems that scale.
+
+I've also designed robust test automation frameworks that significantly reduce production defects and improve test coverage at companies like Deloitte, Sapiens, and HCL America (BECU). I've built automation solutions using Selenium, Java, Python, and CI/CD pipelines that enable faster, more reliable software delivery across enterprise applications.
+
 📍 **Location:** Seattle, WA  
 🎯 **Seeking:** Summer 2026 SDE / Full Stack / SDET Internship opportunities
 
