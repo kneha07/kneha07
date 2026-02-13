@@ -156,7 +156,7 @@ A scalable real-time social media platform supporting **1,000+ concurrent users*
 ---
 
 ### 🏢 Sr. Software Engineer
-**Sapiens** | Bangalore, India | *May 2021 – Feb 2023*
+**Sapiens** | Bangalore, India | *May 2021 – Dec 2022*
 
 - 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
 - 📉 Lowered production defects by **45%**
@@ -175,7 +175,7 @@ A scalable real-time social media platform supporting **1,000+ concurrent users*
 ---
 
 ### 🏢 QA Test Engineer
-**Deloitte** | Hyderabad, India | *Jul 2017 – Jan 2020*
+**Deloitte** | Hyderabad, India | *Jul 2018 – Jan 2020*
 
 - 🔄 Led migration of **5M+ records** with **zero data loss**
 - 📈 Enhanced test coverage by **60%** using Selenium/Cucumber
