@@ -36,7 +36,7 @@ I've also designed robust test automation frameworks that significantly reduce p
 **Master of Science in Computer Software Engineering - Information Systems**  
 Northeastern University, Seattle | *Sep 2025 - May 2027* | **GPA: 4.0/4.0**
 
-**Relevant Coursework:** Object-Oriented Design, Data Structures & Algorithms, Web Design & UX Engineering
+**Relevant Coursework:** Object-Oriented Design, Data Structures & Algorithms, Web Design & UX Engineering, Software Engineering
 
 **Bachelor of Engineering (Honors) - Computer Science**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya, India 
