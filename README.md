@@ -155,7 +155,7 @@ A scalable real-time social media platform supporting **1,000+ concurrent users*
 
 ---
 
-### 🏢 Sr. Software Engineer
+### 🏢 Software Engineer
 **Sapiens** | Bangalore, India | *May 2021 – Dec 2022*
 
 - 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
