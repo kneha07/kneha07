@@ -175,7 +175,7 @@ A scalable real-time social media platform supporting **1,000+ concurrent users*
 ---
 
 ### 🏢 QA Test Engineer
-**Deloitte** | Hyderabad, India | *Jul 2016 – Jan 2020*
+**Deloitte** | Hyderabad, India | *Jul 2017 – Jan 2020*
 
 - 🔄 Led migration of **5M+ records** with **zero data loss**
 - 📈 Enhanced test coverage by **60%** using Selenium/Cucumber
