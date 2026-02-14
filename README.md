@@ -126,23 +126,6 @@ A modern, interactive web application helping users discover and care for 12+ ho
 
 ---
 
-### 🐦 Real-Time Social Media Platform
-**Tech Stack:** Go | Next.js | TypeScript | PostgreSQL | Redis | AWS EKS | Kubernetes | Docker | AWS S3 | CloudFront
-
-A scalable real-time social media platform supporting **1,000+ concurrent users** with instant WebSocket-based notifications. Built with cloud-native microservices architecture deployed on AWS EKS.
-
-**Key Features:**
-- 🔐 **Authentication:** JWT-based authentication and authorization
-- 📸 **Media Uploads:** Image/video uploads with AWS S3 and CloudFront CDN
-- 🔔 **Real-Time Notifications:** WebSocket notifications for likes, follows, replies, and mentions
-- 🐦 **Social Features:** Tweet, like, retweet, and reply functionality
-- 🤝 **Follow System:** Follow/unfollow with personalized feed
-- 🔍 **Search:** User and tweet search with infinite scroll
-- ⚡ **Optimized:** RDS PostgreSQL with indexing and ElastiCache Redis, reducing query time by **40%**
-- 📱 **Responsive:** Mobile-friendly UI with server-side rendering
-
----
-
 ## 💼 Professional Experience
 
 ### 🏢 Software Developer Engineer in Test
