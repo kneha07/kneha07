@@ -18,7 +18,7 @@
 
 I'm a software engineer pursuing my Master's in Information Systems at Northeastern University, where I'm deepening my expertise in software development, cloud computing, and full-stack application building.
 
-My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code. I've built and tested enterprise applications across **finance, insurance, and healthcare sectors**—giving me a unique perspective on building robust, scalable software from the ground up.
+My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code. I've built and tested enterprise applications across **E-Commerce, finance, insurance, and healthcare sectors**—giving me a unique perspective on building robust, scalable software from the ground up.
 
 At Northeastern, I'm expanding my technical foundation through advanced coursework in algorithms, cloud architecture, and modern development practices. I have strong proficiency in Java, Python, JavaScript, and modern frameworks like React.js, Node.js, and Spring Boot.
 
