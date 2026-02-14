@@ -129,7 +129,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ## 💼 Professional Experience
 
 ### 🏢 Software Developer Engineer in Test
-**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – May 2025*
+**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – March 2025*
 
 - 🏗️ Architected test automation strategy across **6 enterprise applications**
 - ⚡ Cut regression validation time by **30%**
@@ -144,26 +144,6 @@ A modern, interactive web application helping users discover and care for 12+ ho
 - 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
 - 📉 Lowered production defects by **45%**
 - 🗃️ Conducted **15+ database** and **100+ API** validations
-
----
-
-### 🏢 Senior Quality Assurance
-**Day One Technologies** | Bangalore, India | *Feb 2020 – May 2021*
-
-- 📱 Led mobile testing on **40+ devices** (Android/iOS)
-- ✅ Developed **250+ test cases** with **95% coverage**
-- 💳 Built automated payment gateway test suites
-- 🐛 Managed defects with **90% resolution rate**
-
----
-
-### 🏢 QA Test Engineer
-**Deloitte** | Hyderabad, India | *Jul 2018 – Jan 2020*
-
-- 🔄 Led migration of **5M+ records** with **zero data loss**
-- 📈 Enhanced test coverage by **60%** using Selenium/Cucumber
-- 🔒 Conducted API and penetration assessments
-- 🤝 Collaborated in Agile ceremonies with stakeholders
 
 ---
 
