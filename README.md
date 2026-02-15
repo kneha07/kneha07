@@ -139,7 +139,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ---
 
 ### 🏢 Software Engineer
-**Sapiens** | Bangalore, India | *May 2021 – Dec 2022*
+**Sapiens** | Bangalore, India | 
 
 - 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
 - 📉 Lowered production defects by **45%**
