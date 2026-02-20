@@ -129,7 +129,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ## 💼 Professional Experience
 
 ### 🏢 Software Developer Engineer in Test
-**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – March 2025*
+**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – Mar 2025*
 
 - 🏗️ Architected test automation strategy across **6 enterprise applications**
 - ⚡ Cut regression validation time by **30%**
@@ -139,7 +139,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ---
 
 ### 🏢 Software Engineer
-**Sapiens** | Bangalore, India | 
+**Sapiens** | Bangalore, India | *May 2021 – Dec 2022*
 
 - 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
 - 📉 Lowered production defects by **45%**
