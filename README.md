@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Kumari! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;MS+in+Computer+Software+Engineering+%40+NEU;Building+Enterprise+Applications;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+QA+Engineer+%7C+SDET;MS+in+Computer+Software+Engineering+%40+NEU;Building+Scalable%2C+Testable%2C+Production-Ready+Software;From+Code+to+Quality+%E2%80%94+I+Do+Both+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,18 +16,14 @@
 
 🎓 **MS in Computer Software Engineering** @ Northeastern University (GPA: 4.0/4.0)
 
-I'm a software engineer pursuing my Master's in Information Systems at Northeastern University, where I'm deepening my expertise in software development, cloud computing, and full-stack application building.
+I am a graduate student at Northeastern University, pursuing a Master's in Computer Software Engineering, where I am deepening my expertise in software engineering, cloud architecture, and intelligent systems — backed by a few years of professional experience across finance, insurance, and healthcare sectors.
 
-My journey in technology began with a Computer Science degree in India, where I fell in love with solving real-world problems through code. I've built and tested enterprise applications across **E-Commerce, finance, insurance, and healthcare sectors**—giving me a unique perspective on building robust, scalable software from the ground up.
+A dynamic and quality-driven Software Engineer with expertise in software development, test automation, and AI-integrated systems. I am passionate about delivering software that is not just functional — but **maintainable, testable, and built to scale**. My experience spans software engineering, test-driven development (TDD), end-to-end quality assurance, and AI-powered application development, with a strong emphasis on agile collaboration and continuous improvement.
 
-At Northeastern, I'm expanding my technical foundation through advanced coursework in algorithms, cloud architecture, and modern development practices. I have strong proficiency in Java, Python, JavaScript, and modern frameworks like React.js, Node.js, and Spring Boot.
-
-> 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives—**building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **maintainable, testable, and production-ready**. I understand the importance of clean code, proper documentation, and building systems that scale.
-
-I've also designed robust test automation frameworks that significantly reduce production defects and improve test coverage at companies like Deloitte, Sapiens, and HCL America (BECU). I've built automation solutions using Selenium, Java, Python, and CI/CD pipelines that enable faster, more reliable software delivery across enterprise applications.
+> 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives — **building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **clean, testable, and production-ready**.
 
 📍 **Location:** Seattle, WA  
-🎯 **Seeking:** Summer 2026 SDE / Full Stack / SDET Internship opportunities
+🎯 **Seeking:** Summer 2026 Software Engineering | QA Engineering | Test Engineering | SDET Internship opportunities
 
 ---
 
@@ -39,7 +35,7 @@ Northeastern University, Seattle | *Sep 2025 - May 2027* | **GPA: 4.0/4.0**
 **Relevant Coursework:** Object-Oriented Design, Data Structures & Algorithms, Web Design & UX Engineering, Software Engineering
 
 **Bachelor of Engineering (Honors) - Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya, India 
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 
 ---
 
@@ -51,24 +47,24 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frameworks & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logoColor=black)
 
 ### Databases
@@ -174,7 +170,7 @@ A modern, interactive web application helping users discover and care for 12+ ho
 ---
 
 <p align="center">
-  💼 <b>Open to:</b> SDE | Full Stack Developer | QA Engineer | SDET Internships (Summer 2026)
+  💼 <b>Open to:</b> Software Engineer | QA Engineer | Test Engineer | SDET Internships (Summer 2026)
 </p>
 
 <p align="center">
