@@ -16,25 +16,25 @@
 
 🎓 **MS in Computer Software Engineering** @ Northeastern University (GPA: 4.0/4.0)
 
-I am a graduate student at Northeastern University, pursuing a Master's in Computer Software Engineering, where I am deepening my expertise in software engineering, cloud architecture, and intelligent systems — backed by a few years of professional experience across finance, insurance, and healthcare sectors.
+I am a graduate student at Northeastern University, pursuing a Master's in Computer Software Engineering, where I am deepening my expertise in software engineering, cloud architecture, and intelligent systems — backed by professional experience across finance, insurance, and healthcare sectors.
 
-A dynamic and quality-driven Software Engineer with expertise in software development, test automation, and AI-integrated systems. I am passionate about delivering software that is not just functional — but **maintainable, testable, and built to scale**. My experience spans software engineering, test-driven development (TDD), end-to-end quality assurance, and AI-powered application development, with a strong emphasis on agile collaboration and continuous improvement.
+A dynamic and quality-driven Software Engineer with expertise in software development, test automation, and AI-integrated systems. Passionate about delivering software that is not just functional — but **maintainable, testable, and built to scale**. My experience spans software engineering, test-driven development (TDD), end-to-end quality assurance, and AI-powered application development.
 
 > 💡 **What sets me apart:** I understand the entire software development lifecycle from both perspectives — **building features AND ensuring they work flawlessly at scale**. Having worked extensively with test automation and quality assurance, I know how to write code that's not just functional, but **clean, testable, and production-ready**.
 
-📍 **Location:** Seattle, WA  
+📍 **Location:** Seattle, WA
 🎯 **Seeking:** Summer 2026 Software Engineering | QA Engineering | Test Engineering | SDET Internship opportunities
 
 ---
 
 ## 🎓 Education
 
-**Master of Science in Computer Software Engineering - Information Systems**  
+**Master of Science in Computer Software Engineering - Information Systems**
 Northeastern University, Seattle | *Sep 2025 - May 2027* | **GPA: 4.0/4.0**
 
 **Relevant Coursework:** Object-Oriented Design, Data Structures & Algorithms, Web Design & UX Engineering, Software Engineering
 
-**Bachelor of Engineering (Honors) - Computer Science**  
+**Bachelor of Engineering (Honors) - Computer Science**
 Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 
 ---
@@ -46,12 +46,14 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frameworks & Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -65,15 +67,13 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -81,44 +81,122 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📄 Smart Document Management with AI Search
-**Tech Stack:** Java Spring Boot | MongoDB | NLP | AWS S3 | React.js | AES-256 | JWT
+---
 
-🔗 [GitHub Repo](https://github.com/kneha07/Smart-Document-Management-System-with-AI-Search-.git)
+### 🧠 DocuMind — AI Document Intelligence Platform
+**Tech Stack:** Spring Boot · React · MongoDB · AWS S3 · Kafka · Claude API · FAISS · Apache Tika · Kubernetes · Docker
 
-An intelligent cloud document management platform that doesn't just store files—it **understands** them. Built for corporate, education, and healthcare sectors.
+🔗 [GitHub Repo](https://github.com/kneha07/DocuMind-AI-Document-Intelligence-Platform)
 
-**Key Features:**
-- 🤖 **AI-Powered Search:** NLP semantic search and OCR processing for context-aware retrieval
-- ⚡ **Performance:** Reduced document retrieval time by **50-80%**
-- 🔐 **Enterprise Security:** AES-256 encryption, JWT authentication, BCrypt hashing
-- 💬 **Smart Features:** Real-time collaboration and intelligent Q&A capabilities
-- ☁️ **Cloud Architecture:** AWS S3 storage with responsive React interface
+ctrl+F finds words. **DocuMind finds meaning.**
+
+An AI-powered document intelligence platform that lets you query your entire document library using natural language — powered by RAG, FAISS vector search, and Claude AI.
+
+**Key Highlights:**
+- 🔍 **85% NLP semantic similarity match** via RAG + FAISS vector indexing
+- 🤖 **Claude API** for keyword extraction, summarization & document Q&A
+- 📄 **Multi-format support** — PDF, DOCX, images via Apache Tika
+- ⚡ **Real-time Kafka pipeline** for event-driven document ingestion
+- 🔒 **AWS S3** with AES-256 encryption + JWT authentication
+- 🚀 **Kubernetes deployment** with Docker + GitHub Actions CI/CD
+
+```
+Upload → Tika extracts text
+       → Kafka processes pipeline
+       → Claude extracts keywords
+       → FAISS indexes vectors
+       → MongoDB stores metadata
+       ↓
+Query  → FAISS similarity search
+       → Claude generates answer
+       → React displays results
+```
 
 ---
 
-### 🌿 Plantopia - Plant Care Guide | React SPA
-**Tech Stack:** React.js | Vite | JavaScript (ES6+) | CSS3 | Responsive Design
+### 🎵 SoundAgent — Agentic AI Music Recommender
+**Tech Stack:** Python · FastAPI · React · Claude API · RAG · FAISS · Streamlit · Docker
 
-🔗 [GitHub Repo](https://github.com/kneha07/Plantopia_Plant-Care-Guide)
+🔗 [GitHub Repo](https://github.com/kneha07/SoundAgent-Agentic-AI-Music-Recommender-)
 
-A modern, interactive web application helping users discover and care for 12+ houseplants with personalized recommendations and comprehensive care guides.
+An agentic AI music recommendation system that understands natural language — tell it your mood, context, and vibe, and it curates a personalized playlist with AI-powered reasoning.
 
-**Key Features:**
-- 🎨 **Theme Switching:** Dark/light mode with persistent user preferences
-- 🔍 **Advanced Filtering:** Filter plants by light, water, difficulty, and pet safety
-- 🎯 **Plant Finder:** Personalized recommendations based on experience and environment
-- ♿ **WCAG AA Compliant:** Full keyboard navigation and screen reader support
-- 📱 **Fully Responsive:** Optimized mobile-first design for all devices
-- 🎠 **Interactive UI:** Carousel, accordion, tabs, and modal components
+**Key Highlights:**
+- 🤖 **Claude API** parses natural language into structured preferences via Pydantic schema
+- 🎯 **12-dimensional weighted scoring engine** across mood, energy, and genre dimensions
+- 🔄 **Multi-step agentic workflow** — intent parsing → retrieval → scoring → validation → explanation
+- 📊 **87% recommendation confidence** with mood/context alignment validation
+- 🎧 **5 specialized profiles** — study, party, workout, relax, night
+- ✅ **Reliability harness** with synthetic test cases — 3/4 alignment cases passed
+- ⚡ **Prompt caching** to reduce API latency and token cost
+
+```
+Natural Language Request
+        ↓
+Claude Intent Parser (Pydantic Schema)
+        ↓
+RAG Candidate Retriever
+        ↓
+12-Dimensional Scoring Engine
+        ↓
+Diversity Filter + Validation
+        ↓
+Confidence Score + Claude Explanation
+        ↓
+Curated Playlist Output
+```
+
+---
+
+### 🌿 Plantopia — AI-Powered Plant Care Platform
+**Tech Stack:** React · Node.js · PostgreSQL · Redis · WebSocket · Claude API · Docker · React Native · WebXR · GitHub Actions
+
+🔗 [GitHub Repo](https://github.com/kneha07/Plantopia-AI-Powered-Plant-Care-Platform)
+
+A full-stack AI plant care platform with multimodal plant identification, real-time care alerts, and AR visualization.
+
+**Key Highlights:**
+- 🔐 **Secure multi-user REST API** with JWT authentication, bcrypt hashing, PostgreSQL + Redis caching
+- 🤖 **Claude API** across 4 AI endpoints — plant identification, health diagnosis with confidence scoring (0–100%), persistent chatbot memory, and real-time WebSocket push alerts
+- 📱 **Cross-platform React Native + Expo** mobile app with camera-based diagnosis
+- 🌐 **WebXR/AR visualization** using ARCore/ARKit for immersive plant viewing
+- 🐳 **Dockerized** full stack with GitHub Actions CI/CD pipeline and integration test coverage
+- 🌱 Plant catalog management across **12+ species** with watering schedule automation
+
+---
+
+### 🐦 Relay — Real-Time Social Media Platform
+**Tech Stack:** Go · Next.js · TypeScript · PostgreSQL · Redis · WebSockets · Kubernetes · AWS (EKS, RDS, ElastiCache, S3, CloudFront) · Claude API · Docker · Tailwind CSS
+
+🔗 [GitHub Repo](https://github.com/kneha07/Relay-Real-Time-Social-Media-Platform)
+
+A production-grade, full-stack social media platform built from the ground up — backend, frontend, infrastructure, and AI features all implemented independently.
+
+**Key Highlights:**
+- ⚡ **40% latency reduction** via Redis + AWS ElastiCache caching layer
+- 🔌 **1,000+ concurrent WebSocket connections** for real-time notifications (likes, follows, replies, mentions)
+- 🤖 **Claude API** powers a hybrid feed ranking algorithm blending content quality, recency decay, and engagement signals
+- 🗄️ **PostgreSQL** with GIN full-text indexes and denormalized counts for read performance
+- ☁️ **AWS EKS** with Kubernetes HPA, RDS, ElastiCache, S3 + CloudFront for media delivery
+- 🔐 JWT authentication + bcrypt hashing for secure multi-user access
+
+```
+Go REST API → PostgreSQL + Redis → WebSocket Hub
+     ↓               ↓                  ↓
+JWT Auth      ElastiCache Cache    1000+ clients
+     ↓               ↓                  ↓
+Claude API    Feed Ranking Algo    Real-time alerts
+     ↓
+AWS EKS + Kubernetes HPA
+```
 
 ---
 
