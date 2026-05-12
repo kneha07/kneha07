@@ -203,21 +203,27 @@ AWS EKS + Kubernetes HPA
 ## 💼 Professional Experience
 
 ### 🏢 Software Developer Engineer in Test
-**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – Mar 2025*
+**HCL America (Client: BECU)** | Seattle, WA | *Jul 2024 – Apr 2025*
 
-- 🏗️ Architected test automation strategy across **6 enterprise applications**
-- ⚡ Cut regression validation time by **30%**
-- 📊 Built Azure DevOps infrastructure with Power BI dashboards
-- 🎯 Decreased defect resolution time by **35%**
+- 🏗️ Developed scalable test automation infrastructure using **Selenium WebDriver (Java)** for 2 enterprise applications in a **cloud-native microservices architecture**
+- ⚙️ Established cloud instances using **Terraform** (IaC) and set up **Jenkins** CI/CD pipelines to automate deployment workflows across distributed engineering teams
+- ✅ Validated **REST APIs** with Postman and executed **SQL** database testing across **100+ business requirements**
 
 ---
 
 ### 🏢 Software Engineer
-**Sapiens** | Bangalore, India | *May 2021 – Dec 2022*
+**Sapiens** | Bangalore, India | *May 2021 – Jan 2023*
 
-- 🔧 Built Selenium automation suite (Java/TestNG/POM) with Git CI/CD
-- 📉 Lowered production defects by **45%**
-- 🗃️ Conducted **15+ database** and **100+ API** validations
+- 🔧 Built a **Java** automation framework with **TestNG and Page Object Model** embedded into a **CI/CD pipeline**, achieving **80% regression coverage**
+- 🤝 Partnered with cross-functional **Agile** teams to surface edge cases, resolve defects via **Jira**, and coached 2 junior engineers in SDLC best practices
+
+---
+
+### 🏢 Software Engineer in Test
+**Deloitte** | Hyderabad, India | *Jul 2018 – Jan 2020*
+
+- 🏗️ Built a **scalable automation framework** from scratch using **Java/Selenium** with **behavior-driven development (BDD)**; collaborated on code reviews and created internal productivity tools across **3 projects**
+- 📝 Authored and maintained technical documentation; applied **object-oriented design** principles to identify edge cases, debug issues, and deliver reliable software across **Agile** sprints
 
 ---
 
