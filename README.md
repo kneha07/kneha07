@@ -91,37 +91,6 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya, India
 
 ---
 
-### 🧠 DocuMind — AI Document Intelligence Platform
-**Tech Stack:** Spring Boot · React · MongoDB · AWS S3 · Kafka · Claude API · FAISS · Apache Tika · Kubernetes · Docker
-
-🔗 [GitHub Repo](https://github.com/kneha07/DocuMind-AI-Document-Intelligence-Platform)
-
-ctrl+F finds words. **DocuMind finds meaning.**
-
-An AI-powered document intelligence platform that lets you query your entire document library using natural language — powered by RAG, FAISS vector search, and Claude AI.
-
-**Key Highlights:**
-- 🔍 **85% NLP semantic similarity match** via RAG + FAISS vector indexing
-- 🤖 **Claude API** for keyword extraction, summarization & document Q&A
-- 📄 **Multi-format support** — PDF, DOCX, images via Apache Tika
-- ⚡ **Real-time Kafka pipeline** for event-driven document ingestion
-- 🔒 **AWS S3** with AES-256 encryption + JWT authentication
-- 🚀 **Kubernetes deployment** with Docker + GitHub Actions CI/CD
-
-```
-Upload → Tika extracts text
-       → Kafka processes pipeline
-       → Claude extracts keywords
-       → FAISS indexes vectors
-       → MongoDB stores metadata
-       ↓
-Query  → FAISS similarity search
-       → Claude generates answer
-       → React displays results
-```
-
----
-
 ### 🎵 SoundAgent — Agentic AI Music Recommender
 **Tech Stack:** Python · FastAPI · React · Claude API · RAG · FAISS · Streamlit · Docker
 
@@ -156,23 +125,6 @@ Curated Playlist Output
 
 ---
 
-### 🌿 Plantopia — AI-Powered Plant Care Platform
-**Tech Stack:** React · Node.js · PostgreSQL · Redis · WebSocket · Claude API · Docker · React Native · WebXR · GitHub Actions
-
-🔗 [GitHub Repo](https://github.com/kneha07/Plantopia-AI-Powered-Plant-Care-Platform)
-
-A full-stack AI plant care platform with multimodal plant identification, real-time care alerts, and AR visualization.
-
-**Key Highlights:**
-- 🔐 **Secure multi-user REST API** with JWT authentication, bcrypt hashing, PostgreSQL + Redis caching
-- 🤖 **Claude API** across 4 AI endpoints — plant identification, health diagnosis with confidence scoring (0–100%), persistent chatbot memory, and real-time WebSocket push alerts
-- 📱 **Cross-platform React Native + Expo** mobile app with camera-based diagnosis
-- 🌐 **WebXR/AR visualization** using ARCore/ARKit for immersive plant viewing
-- 🐳 **Dockerized** full stack with GitHub Actions CI/CD pipeline and integration test coverage
-- 🌱 Plant catalog management across **12+ species** with watering schedule automation
-
----
-
 ### 🐦 Relay — Real-Time Social Media Platform
 **Tech Stack:** Go · Next.js · TypeScript · PostgreSQL · Redis · WebSockets · Kubernetes · AWS (EKS, RDS, ElastiCache, S3, CloudFront) · Claude API · Docker · Tailwind CSS
 
@@ -196,6 +148,54 @@ JWT Auth      ElastiCache Cache    1000+ clients
 Claude API    Feed Ranking Algo    Real-time alerts
      ↓
 AWS EKS + Kubernetes HPA
+```
+
+---
+
+### 🌿 Plantopia — AI-Powered Plant Care Platform
+**Tech Stack:** React · Node.js · PostgreSQL · Redis · WebSocket · Claude API · Docker · React Native · WebXR · GitHub Actions
+
+🔗 [GitHub Repo](https://github.com/kneha07/Plantopia-AI-Powered-Plant-Care-Platform)
+
+A full-stack AI plant care platform with multimodal plant identification, real-time care alerts, and AR visualization.
+
+**Key Highlights:**
+- 🔐 **Secure multi-user REST API** with JWT authentication, bcrypt hashing, PostgreSQL + Redis caching
+- 🤖 **Claude API** across 4 AI endpoints — plant identification, health diagnosis with confidence scoring (0–100%), persistent chatbot memory, and real-time WebSocket push alerts
+- 📱 **Cross-platform React Native + Expo** mobile app with camera-based diagnosis
+- 🌐 **WebXR/AR visualization** using ARCore/ARKit for immersive plant viewing
+- 🐳 **Dockerized** full stack with GitHub Actions CI/CD pipeline and integration test coverage
+- 🌱 Plant catalog management across **12+ species** with watering schedule automation
+
+---
+
+### 🧠 DocuMind — AI Document Intelligence Platform
+**Tech Stack:** Spring Boot · React · MongoDB · AWS S3 · Kafka · Claude API · FAISS · Apache Tika · Kubernetes · Docker
+
+🔗 [GitHub Repo](https://github.com/kneha07/DocuMind-AI-Document-Intelligence-Platform)
+
+ctrl+F finds words. **DocuMind finds meaning.**
+
+An AI-powered document intelligence platform that lets you query your entire document library using natural language — powered by RAG, FAISS vector search, and Claude AI.
+
+**Key Highlights:**
+- 🔍 **85% NLP semantic similarity match** via RAG + FAISS vector indexing
+- 🤖 **Claude API** for keyword extraction, summarization & document Q&A
+- 📄 **Multi-format support** — PDF, DOCX, images via Apache Tika
+- ⚡ **Real-time Kafka pipeline** for event-driven document ingestion
+- 🔒 **AWS S3** with AES-256 encryption + JWT authentication
+- 🚀 **Kubernetes deployment** with Docker + GitHub Actions CI/CD
+
+```
+Upload → Tika extracts text
+       → Kafka processes pipeline
+       → Claude extracts keywords
+       → FAISS indexes vectors
+       → MongoDB stores metadata
+       ↓
+Query  → FAISS similarity search
+       → Claude generates answer
+       → React displays results
 ```
 
 ---
