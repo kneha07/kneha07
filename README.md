@@ -125,7 +125,7 @@ Curated Playlist Output
 
 ---
 
-### 🐦 Relay — Real-Time Social Media Platform
+### 🐦 Relay – Full-Stack Twitter Clone
 **Tech Stack:** Go · Next.js · TypeScript · PostgreSQL · Redis · WebSockets · Kubernetes · AWS (EKS, RDS, ElastiCache, S3, CloudFront) · Claude API · Docker · Tailwind CSS
 
 🔗 [GitHub Repo](https://github.com/kneha07/Relay-Real-Time-Social-Media-Platform)
